@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="webstaurantstore">
+  <test name="webstaurantstore Test">
+      <classes>
+      <class name="com.app.qa.tests.SearchPageTests"/>
+      <class name="com.app.qa.tests.CartPageTests"/>
+      </classes>
+  </test>   
+</suite>

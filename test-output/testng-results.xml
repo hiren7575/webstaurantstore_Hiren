@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-07T13:35:53 EDT" name="webstaurantstore" finished-at="2024-04-07T13:36:35 EDT" duration-ms="41854">
+    <groups>
+    </groups>
+    <test started-at="2024-04-07T13:35:53 EDT" name="webstaurantstore Test" finished-at="2024-04-07T13:36:35 EDT" duration-ms="41854">
+      <class name="com.app.qa.tests.CartPageTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.app.qa.tests.CartPageTests@6771beb3]" started-at="2024-04-07T13:36:16 EDT" name="setUp" finished-at="2024-04-07T13:36:19 EDT" duration-ms="3047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddedItemsInTheCart()[pri:0, instance:com.app.qa.tests.CartPageTests@6771beb3]" started-at="2024-04-07T13:36:19 EDT" name="verifyAddedItemsInTheCart" finished-at="2024-04-07T13:36:25 EDT" duration-ms="5792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddedItemsInTheCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.tests.CartPageTests@6771beb3]" started-at="2024-04-07T13:36:25 EDT" name="teardown" finished-at="2024-04-07T13:36:25 EDT" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.app.qa.tests.CartPageTests@6771beb3]" started-at="2024-04-07T13:36:25 EDT" name="setUp" finished-at="2024-04-07T13:36:28 EDT" duration-ms="2716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEmptyCart()[pri:0, instance:com.app.qa.tests.CartPageTests@6771beb3]" started-at="2024-04-07T13:36:28 EDT" name="verifyEmptyCart" finished-at="2024-04-07T13:36:35 EDT" duration-ms="6494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.tests.CartPageTests@6771beb3]" started-at="2024-04-07T13:36:35 EDT" name="teardown" finished-at="2024-04-07T13:36:35 EDT" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.app.qa.tests.CartPageTests -->
+      <class name="com.app.qa.tests.SearchPageTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.app.qa.tests.SearchPageTests@3349e9bb]" started-at="2024-04-07T13:35:53 EDT" name="setUp" finished-at="2024-04-07T13:35:59 EDT" duration-ms="5775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickOnViewCart()[pri:0, instance:com.app.qa.tests.SearchPageTests@3349e9bb]" started-at="2024-04-07T13:35:59 EDT" name="clickOnViewCart" finished-at="2024-04-07T13:36:05 EDT" duration-ms="5886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnViewCart -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.tests.SearchPageTests@3349e9bb]" started-at="2024-04-07T13:36:05 EDT" name="teardown" finished-at="2024-04-07T13:36:05 EDT" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.app.qa.tests.SearchPageTests@3349e9bb]" started-at="2024-04-07T13:36:05 EDT" name="setUp" finished-at="2024-04-07T13:36:08 EDT" duration-ms="3128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifysearchItems()[pri:0, instance:com.app.qa.tests.SearchPageTests@3349e9bb]" started-at="2024-04-07T13:36:08 EDT" name="verifysearchItems" finished-at="2024-04-07T13:36:16 EDT" duration-ms="7909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysearchItems -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.app.qa.tests.SearchPageTests@3349e9bb]" started-at="2024-04-07T13:36:16 EDT" name="teardown" finished-at="2024-04-07T13:36:16 EDT" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.app.qa.tests.SearchPageTests -->
+    </test> <!-- webstaurantstore Test -->
+  </suite> <!-- webstaurantstore -->
+</testng-results>
